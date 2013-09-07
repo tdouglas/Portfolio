@@ -1,0 +1,280 @@
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab:100,400italic|Raleway:400,100|Flamenco:300,400|Gilda+Dispaly|Arvo|Federant|IM+Fell+French+Canon:400italic|Life+Savers|Monda|Grand+Hotel|Berkshire+Swash|Bubbler+One|Asul:400,700);
+
+.clear {
+    clear: both;
+}
+
+object {
+  max-width: 30%;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.strip {
+  display: none !important;
+  width: 100%;
+
+
+/*  position: fixed;
+*/  top: 0;
+/*  border: 3px solid yellow;
+*/}
+
+.tiny-logo {
+  width: 10%;
+  min-width: 3%;
+  margin-left: 4%;
+  margin-right: 60%;
+  float: left;
+}
+
+.strip ul {
+  margin: 0;
+  padding: 1% 5% 0.5% 0;
+  list-style-type: none;
+  float: left;
+}
+
+.strip li {
+  display: inline;
+  margin-right: 1.5%;
+  cursor: pointer;
+}
+
+.launch {
+  position: relative;
+  width: 100%;
+
+/*  border: 3px solid blue;
+*/
+}
+
+.header {
+  width: 100%;
+  background: url(../images/brickwall.png) 0 0;
+  background-position: center center;
+  background-repeat: repeat;
+  position: relative;
+}
+
+.logo-lrg {
+  position: relative;
+  top: 20px;
+}
+
+.logo-lrg object {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*why doesnt the font decrease with browser width*/
+.text-body {
+  width: 100%;
+  position: relative;
+  padding: 5% 0;
+  text-align: center;
+  font-size: 10em;
+  line-height: 1.5;
+}
+
+.text-body p{
+  font-size: 0.2em;
+  line-height: 1em;
+  font-family: "Raleway";
+  font-weight: 100;
+  overflow: hidden;
+}
+
+.slider {
+  position: relative;
+  width: 3600px;
+  height: 450px;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  width: 1200px;
+  height: 450px;
+  overflow: hidden;
+}
+
+#last {
+  padding: 0 0 15% 0;
+}
+
+#teach-font{
+  font-family: 'Josefin Slab';
+  font-weight: 400;
+}
+
+#design-font{
+  font-family: 'Life Savers';
+}
+
+#develop-font{
+  font-family: 'Josefin Slab';
+  font-weight: 400;
+}
+
+#develop-font h{
+  padding-bottom: 10%;
+}
+
+.i-am {
+  width: 100%;
+  padding-bottom: 8%;
+}
+
+.brief-intro {
+  padding: 5% 5%;
+  text-align: center;
+/*  border: 3px solid purple;
+*/  color: #222222;
+  font-family: "Raleway";
+  font-weight: 100;
+  background-color: #FFE4B5;
+  width: 100%;
+
+}
+
+.brief-intro h3 {
+  font-size: 5.5em;
+  line-height: 1em;
+  padding-top: 8%;
+}
+
+#and {
+  padding: 0;
+}
+
+.brief-intro h4 {
+  font-size: 2.5em;
+  line-height: 2em;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+
+.brief-intro span {
+  font-family: serif;
+  font-weight: 100;
+}
+
+.brief-intro p {
+  padding-top: 2%;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.open-quote {
+  padding-top: 90px;
+  float: left;
+}
+
+#quote {
+  width: 100%}
+
+#open {
+  float: left;
+  max-width: 10%;
+  padding-left: 3%;
+  opacity: 0.4;
+}
+
+#close {
+  max-width: 10%;
+  margin-top: -1%;
+  margin-right: -88%;
+  padding-bottom: 5%;
+  opacity: 0.4;
+}
+
+.about-me {
+  font-size: 0.5em;
+  display: inline;
+  width: 100%;
+  cursor: pointer;
+}
+
+.about-me img{
+  width: 100%;
+  padding: 0 0 10% 0;
+  margin-left: 2%;
+  cursor: pointer;
+}
+
+#about {
+  float: left;
+  width: 32%;
+  padding: 0 0 0 1%;
+}
+
+#journal {
+  float: left;
+  width: 32%;
+  padding: 0 0 0 1%;
+}
+
+#contact {
+  float: left;
+  width: 32%;
+  padding: 0 0 0 1%;
+}
+
+.labels h3{
+  font-size: 3em;
+}
+
+.work-carousel {
+  width: 100%;
+}
+
+.bxslider {
+  font-family: "Raleway";
+  font-weight: 100;
+  padding-left: 2%;
+  padding-top: 2%;
+}
+
+.bxslider img{
+  width: 40.5%;
+}
+}
+
+.bxslider h2{
+  font-size: 3.5em;
+  font-weight: 400;
+  padding: 10% 1.5%;
+  width: 32%;
+}
+
+.bxslider h3{
+  font-size: 2.5em;
+  color: #6495ED;
+}
+
+.bxslider p{
+  width: 32%;
+}
+
+.bxslider span{
+  color: #6495ED;
+}
+
+
+
+#space {
+  height: 12%;
+}
+
+
+
+
+
+
+
+
